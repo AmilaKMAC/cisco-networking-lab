@@ -1,0 +1,35 @@
+# IPv4 Basic Configuration Lab
+
+## Objective
+Configure static IPv4 addresses between two PCs and verify end-to-end communication.
+
+---
+
+## Topology
+![Topology](ipv4-topology.png)
+
+---
+
+## Devices Used
+- 2 PCs
+
+---
+
+## IP Configuration
+
+| Device | IP Address | Subnet Mask |
+|---|---|---|
+| PC0 | 192.168.1.1 | 255.255.255.0 |
+| PC1 | 192.168.1.2 | 255.255.255.0 |
+
+---
+
+## Connectivity Test
+Successful ping verification between both PCs.
+
+---
+
+## Skills Practiced
+- Static IPv4 addressing
+- Peer-to-peer connectivity
+- Basic network verification using ping
