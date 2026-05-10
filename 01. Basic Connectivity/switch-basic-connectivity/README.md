@@ -11,7 +11,7 @@ Establish communication between two PCs through a Cisco switch using static IPv4
 ---
 
 ## Devices Used
-- 2 PCs
+- 3 PCs
 - 1 Cisco Switch
 
 ---
@@ -22,11 +22,16 @@ Establish communication between two PCs through a Cisco switch using static IPv4
 |---|---|---|
 | PC0 | 192.168.1.1 | 255.255.255.0 |
 | PC1 | 192.168.1.2 | 255.255.255.0 |
+| PC1 | 192.168.1.3 | 255.255.255.0 |
+
+
 
 ---
 
 ## Connectivity Test
 Successful ping verification between both PCs through the switch.
+
+![Ping Testing](test-connectivity.png)
 
 ---
 
