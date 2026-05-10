@@ -42,7 +42,7 @@ Configure a router to connect two different networks using static IPv4 addressin
 The router interfaces were configured using Cisco IOS CLI.
 
 ### Router CLI Configuration
-![Router Configuration](router-config.png)
+![Router Configuration](router-cli-config.png)
 
 ### Configure GigabitEthernet 0/0
 
