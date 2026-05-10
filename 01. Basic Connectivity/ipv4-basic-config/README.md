@@ -6,7 +6,8 @@ Configure static IPv4 addresses between two PCs and verify end-to-end communicat
 ---
 
 ## Topology
-![Topology](ipv4-topology.png)
+![Topology](ipv4-topology-1.png)
+![Topology](ipv4-topology-2.png)
 
 ---
 
@@ -19,13 +20,16 @@ Configure static IPv4 addresses between two PCs and verify end-to-end communicat
 
 | Device | IP Address | Subnet Mask |
 |---|---|---|
-| PC0 | 192.168.1.1 | 255.255.255.0 |
-| PC1 | 192.168.1.2 | 255.255.255.0 |
+| PC0 | 192.168.10.1 | 255.255.255.0 |
+| PC1 | 192.168.10.2 | 255.255.255.0 |
 
 ---
 
-## Connectivity Test
+## Test Connectivity 
 Successful ping verification between both PCs.
+
+![Ping Testing](test-connectivity.png)
+
 
 ---
 
