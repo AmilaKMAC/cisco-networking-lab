@@ -25,7 +25,7 @@ Configure static IPv4 addresses between two PCs and verify end-to-end communicat
 
 ---
 
-## Connectivity Test
+## Test Connectivity 
 Successful ping verification between both PCs.
 
 ![Ping Testing](test-connectivity.png)
